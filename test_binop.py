@@ -92,6 +92,7 @@ def test_ast(text, expected):
 
 @pytest.mark.parametrize("text, result", [
     ("534", 534),
+    ("((((42))))", 42),
     ("2+2", 4),
     ("1+1+1+1+1+1+1", 7),
     ("2*3+2", 8),
