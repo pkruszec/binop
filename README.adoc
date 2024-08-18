@@ -1,0 +1,10 @@
+[#README]
+= binop
+:revdate: 2024-08-18
+:author: Paweł Kruszec
+:email: pakruszec@gmail.com
+
+Handwritten parser excercise.
+
+This code is not useful by itself (it lacks proper error reporting, poor lexer), it was meant to quickly learn parsing that way.
+
