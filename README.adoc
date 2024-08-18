@@ -4,7 +4,7 @@
 :author: Paweł Kruszec
 :email: pakruszec@gmail.com
 
-Handwritten parser excercise.
+Handwritten parser exercise.
 
 This code is not useful by itself (it lacks proper error reporting, poor lexer), it was meant to quickly learn parsing that way.
 
